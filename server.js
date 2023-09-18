@@ -33,4 +33,4 @@ app.get('/films', (req, res) => {
 app.listen(3000, () => {
   console.log(`Server listening on port 3000`);
 });
-// //send a get request send a GET request on postman
+// //send a get request send a GET request on postman http://localhost:3000/films
